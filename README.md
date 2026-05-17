@@ -72,3 +72,41 @@ Campaign Mockups & Applications
 
 **Project Members**
 ---
+_**Kholoud Maged– Team Leader & Creative Director**
+
+Developing the main campaign concept.
+Creating the brand strategy and positioning.
+Designing the full visual identity (Logo, colors, typography).
+Setting the art direction and visual language.
+Final review and quality control.
+Preparing and organizing the final presentation As the team leader, he ensured the campaign 
+maintained a unified visual identity and strong conceptual foundation. 
+• Mohamed Ahmed – Research & Content Strategist
+Conducting psychological and behavioral research.
+Collecting statistics and case studies related to digital addiction .
+Defining campaign messaging tone and voice Writing awareness content for posts and print 
+materials.
+Structuring informational hierarchy for brochures .
+His role focused on transforming research insights into clear and impactful communication 
+messages.
+• Menna Shalaby – Social Media Visual Designer 
+Designing social media post layouts.
+Creating a unified grid system for campaign content.
+Developing carousel structures for awareness.
+storytelling Adapting brand identity across digital platforms.
+Designing engagement-focused visuals She ensured that the campaign communicates.
+effectively within digital platforms while maintaining visual consistency. 
+• Nour Mohamed – Brand Applications Designer 
+Designing brand mockups and real-life applications.
+Creating merchandise concepts (tote bags, notebooks, stickers) .
+Developing environmental branding concepts .
+Applying identity system across different touchpoints .
+Ensuring visual consistency in brand extensions.
+She worked on expanding the brand into tangible and realistic applications. 
+• Radwa Ramadan – UI/UX Designer
+Designing the awareness microsite concept 
+Creating user journey and wireframes 
+Structuring content flow for educational experience 
+Designing UI layout aligned with brand identity 
+Presenting an interactive solution for awareness engagement 
+Her role focused on designing a digital experience that supports behavioral change and 
