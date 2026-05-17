@@ -24,7 +24,7 @@ message.
 
 ---
 
-**2.Problem Statement**
+2.**Problem Statement**
 
 The rapid evolution of social media platforms has transformed daily 
 life into a continuous digital experience. While technology provides 
