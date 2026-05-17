@@ -72,7 +72,7 @@ Campaign Mockups & Applications
 
 **Project Members**
 ---
-**Kholoud Maged_Team Leader & Creative Director**
+**•Kholoud Maged_Team Leader & Creative Director**
 
 Developing the main campaign concept
 Creating the brand strategy and positioning
@@ -96,7 +96,7 @@ messages.
 
 ---
 
-• Menna Shalaby – Social Media Visual Designer 
+**•Menna Shalaby – Social Media Visual Designer** 
 
 Designing social media post layouts.
 Creating a unified grid system for campaign content.
@@ -107,7 +107,8 @@ effectively within digital platforms while maintaining visual consistency.
 
 ---
 
-• Nour Mohamed – Brand Applications Designer 
+**•Nour Mohamed – Brand Applications Designer**
+ 
 Designing brand mockups and real-life applications.
 Creating merchandise concepts (tote bags, notebooks, stickers) .
 Developing environmental branding concepts .
@@ -117,7 +118,8 @@ She worked on expanding the brand into tangible and realistic applications.
 
 ---
 
-• Radwa Ramadan – UI/UX Designer
+**•Radwa Ramadan – UI/UX Designer**
+
 Designing the awareness microsite concept 
 Creating user journey and wireframes 
 Structuring content flow for educational experience 
