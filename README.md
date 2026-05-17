@@ -83,7 +83,8 @@ Preparing and organizing the final presentation As the team leader, he ensured t
 maintained a unified visual identity and strong conceptual foundation.
 
 --- 
-• Mohamed Ahmed – Research & Content Strategist
+**•Mohamed Ahmed – Research & Content Strategist**
+
 Conducting psychological and behavioral research.
 Collecting statistics and case studies related to digital addiction .
 Defining campaign messaging tone and voice Writing awareness content for posts and print 
@@ -91,6 +92,7 @@ materials.
 Structuring informational hierarchy for brochures .
 His role focused on transforming research insights into clear and impactful communication 
 messages.
+---
 • Menna Shalaby – Social Media Visual Designer 
 Designing social media post layouts.
 Creating a unified grid system for campaign content.
