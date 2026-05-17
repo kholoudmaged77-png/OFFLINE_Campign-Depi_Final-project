@@ -72,7 +72,7 @@ Campaign Mockups & Applications
 
 **Project Members**
 ---
-**Kholoud Maged_Team Leader & Creative Director**
+Kholoud Maged_Team Leader & Creative Director
 
 Developing the main campaign concept.
 Creating the brand strategy and positioning.
