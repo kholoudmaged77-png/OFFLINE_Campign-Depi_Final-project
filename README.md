@@ -20,6 +20,7 @@ Offline is designed as a comprehensive visual communication
 project that combines branding, print design, social media systems, 
 and interactive awareness concepts to deliver a strong and impactful 
 message.
+
 ---
 
 **2.Problem Statement**
