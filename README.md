@@ -69,3 +69,6 @@ Outdoor Advertising Concepts
 Brochure & Informational Print Materials
 UI/UX Concept for Awareness Microsite
 Campaign Mockups & Applications
+
+**Project Members**
+---
