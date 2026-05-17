@@ -74,13 +74,14 @@ Campaign Mockups & Applications
 ---
 Kholoud Maged_Team Leader & Creative Director
 
-Developing the main campaign concept.
-Creating the brand strategy and positioning.
-Designing the full visual identity (Logo, colors, typography).
-Setting the art direction and visual language.
-Final review and quality control.
+Developing the main campaign concept
+Creating the brand strategy and positioning
+Designing the full visual identity (Logo, colors, typography)
+Setting the art direction and visual language
+Final review and quality control
 Preparing and organizing the final presentation As the team leader, he ensured the campaign 
 maintained a unified visual identity and strong conceptual foundation.
+
 --- 
 • Mohamed Ahmed – Research & Content Strategist
 Conducting psychological and behavioral research.
