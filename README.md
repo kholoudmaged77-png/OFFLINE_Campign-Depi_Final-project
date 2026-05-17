@@ -4,6 +4,7 @@ Depi_Graduation project
 ---
 Digital Addiction Awareness Campaign
 Graduation Project – Graphic Design Track
+---
 1. Project Introduction
 Offline is a social awareness campaign that addresses the growing 
 issue of digital addiction and the psychological impact of excessive 
