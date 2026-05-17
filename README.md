@@ -16,6 +16,8 @@ Offline is designed as a comprehensive visual communication
 project that combines branding, print design, social media systems, 
 and interactive awareness concepts to deliver a strong and impactful 
 message.
+
+
 2. Problem Statement
 The rapid evolution of social media platforms has transformed daily 
 life into a continuous digital experience. While technology provides 
@@ -27,7 +29,9 @@ Sleep disorders and mental exhaustion
 Shortened attention spans
 Digital addiction has become a silent behavioral crisis affecting 
 productivity, relationships, and psychological stability. There is a 
-strong need for awareness through strategic visual communication.
+strong need for awareness through strategic visual communication
+
+
 3. Project Objectives
 The main objectives of the Offline campaign are:
 Raise awareness about digital addiction
@@ -35,11 +39,15 @@ Educate young users about psychological risks
 Encourage balanced screen-time habits
 Promote real-life interaction and mindfulness
 Create a recognizable awareness brand identity
+
+
 4. Target Audience
 Teenagers (16–22 years old)
 University students
 Heavy social media users
 Young adults experiencing digital burnout
+
+
 5. Project Scope & Deliverables
 The project includes a complete visual system consisting of:
 Logo Design & Brand Identity System
