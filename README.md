@@ -1,11 +1,11 @@
 # OFFLINE_Campign-Depi_Finalproject
 ---
-Depi_Graduation project
+**Depi_Graduation project**
 ---
 Digital Addiction Awareness Campaign
 Graduation Project – Graphic Design Track
 ---
-1. Project Introduction
+**1. Project Introduction**
 Offline is a social awareness campaign that addresses the growing 
 issue of digital addiction and the psychological impact of excessive 
 social media usage.
@@ -22,7 +22,7 @@ and interactive awareness concepts to deliver a strong and impactful
 message.
 ---
 
-2. Problem Statement
+**2.Problem Statement**
 The rapid evolution of social media platforms has transformed daily 
 life into a continuous digital experience. While technology provides 
 convenience and connectivity, excessive usage has led to:
@@ -36,7 +36,7 @@ productivity, relationships, and psychological stability. There is a
 strong need for awareness through strategic visual communication
 ___
 
-3. Project Objectives
+**3.Project Objectives**
 The main objectives of the Offline campaign are:
 Raise awareness about digital addiction
 Educate young users about psychological risks
@@ -45,14 +45,14 @@ Promote real-life interaction and mindfulness
 Create a recognizable awareness brand identity
 ___
 
-4. Target Audience
+**4.Target Audience**
 Teenagers (16–22 years old)
 University students
 Heavy social media users
 Young adults experiencing digital burnout
 ___
 
-5. Project Scope & Deliverables
+**5.Project Scope & Deliverables**
 The project includes a complete visual system consisting of:
 Logo Design & Brand Identity System
 Color Palette & Typography System
