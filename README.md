@@ -1,4 +1,6 @@
-# OFFLINE_Campign-Depi_Final-projectOFFLINEDepi_Graduation project
+# OFFLINE_Campign-Depi_Final-project
+---
+Depi_Graduation project
 ---
 Digital Addiction Awareness Campaign
 Graduation Project – Graphic Design Track
