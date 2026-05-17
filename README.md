@@ -104,6 +104,7 @@ Developing carousel structures for awareness.
 storytelling Adapting brand identity across digital platforms.
 Designing engagement-focused visuals She ensured that the campaign communicates.
 effectively within digital platforms while maintaining visual consistency. 
+
 ---
 
 • Nour Mohamed – Brand Applications Designer 
@@ -113,6 +114,7 @@ Developing environmental branding concepts .
 Applying identity system across different touchpoints .
 Ensuring visual consistency in brand extensions.
 She worked on expanding the brand into tangible and realistic applications. 
+
 ---
 
 • Radwa Ramadan – UI/UX Designer
